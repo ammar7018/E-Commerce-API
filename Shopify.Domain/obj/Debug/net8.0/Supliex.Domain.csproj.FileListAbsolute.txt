@@ -1,0 +1,13 @@
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.AssemblyInfoInputs.cache
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.AssemblyInfo.cs
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.csproj.CoreCompileInputs.cache
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.sourcelink.json
+F:\CS\GitHub\Supliex\Supliex.Domain\bin\Debug\net8.0\Supliex.Domain.deps.json
+F:\CS\GitHub\Supliex\Supliex.Domain\bin\Debug\net8.0\Supliex.Domain.dll
+F:\CS\GitHub\Supliex\Supliex.Domain\bin\Debug\net8.0\Supliex.Domain.pdb
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.csproj.AssemblyReference.cache
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.dll
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\refint\Supliex.Domain.dll
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\Supliex.Domain.pdb
+F:\CS\GitHub\Supliex\Supliex.Domain\obj\Debug\net8.0\ref\Supliex.Domain.dll
